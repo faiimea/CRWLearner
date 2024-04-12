@@ -1,0 +1,7 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+llama-2-7b/
+llama-2-7b-chat/
+splitted/
+*.chk
+*.model
